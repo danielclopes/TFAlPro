@@ -1,4 +1,4 @@
-package tf.dados;
+package tf.alpro2;
 
 public class Acidente {
 	private String log1, log2, tipo_acid, data_hora, dia_sem, feridos, mortes,
